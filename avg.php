@@ -1,1 +1,2 @@
 Funkcja średnia
+Funkcja wazona
