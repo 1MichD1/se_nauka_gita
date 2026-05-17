@@ -1,3 +1,4 @@
 test gita
 Pierwszy commit
 drugi commit
+trzeci commit
